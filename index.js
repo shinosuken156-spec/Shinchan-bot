@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "Piesmpmc.aternos.me",
+    "port": 37512,
     "version": "1.21.1"
   },
   "position": {
